@@ -30,10 +30,13 @@ The analysis focuses on gender, age group, product categories, and payment metho
 The dataset used in this project is **not publicly shared** due to data privacy and credential restrictions.
 
 ## Key Insights
-- Female customers contribute higher revenue
-- Age group 55+ shows highest purchasing power
-- Clothing is the top revenue-generating category
-- Cash is the most preferred payment method
+- Female customers contribute higher revenue and quantity
+- 55+ age group has the highest purchasing power
+- Clothing is the top-performing category
+- Cash is the most used payment method
+
 
 ## Author
-Akshay Rathod
+Akshay Rathod  
+LinkedIn: <www.linkedin.com/in/akshay-rathod-aba95a270>  
+
